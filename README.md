@@ -1,3 +1,4 @@
-# LyricsSearch
+<h1 align="center">Lyrics Search</h1>
 
-Search songs, artists and lyrics using the lyrics.ovh API 
+
+<div align="center">Search songs, artists and lyrics using the lyrics.ovh API </div>
